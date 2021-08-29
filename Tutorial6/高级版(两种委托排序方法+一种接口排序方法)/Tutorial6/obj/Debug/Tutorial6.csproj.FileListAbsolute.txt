@@ -1,0 +1,7 @@
+F:\soft\zhuomian\506\tutor\Tutorial6\Tutorial6\bin\Debug\Tutorial6.exe.config
+F:\soft\zhuomian\506\tutor\Tutorial6\Tutorial6\bin\Debug\Tutorial6.exe
+F:\soft\zhuomian\506\tutor\Tutorial6\Tutorial6\bin\Debug\Tutorial6.pdb
+F:\soft\zhuomian\506\tutor\Tutorial6\Tutorial6\obj\Debug\Tutorial6.csprojAssemblyReference.cache
+F:\soft\zhuomian\506\tutor\Tutorial6\Tutorial6\obj\Debug\Tutorial6.csproj.CoreCompileInputs.cache
+F:\soft\zhuomian\506\tutor\Tutorial6\Tutorial6\obj\Debug\Tutorial6.exe
+F:\soft\zhuomian\506\tutor\Tutorial6\Tutorial6\obj\Debug\Tutorial6.pdb
