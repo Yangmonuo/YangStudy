@@ -22,7 +22,6 @@ F:\MyMaterials\506\tutor\YangStudy\Tutorial8\Tutorial\Tutorial\obj\Debug\Tutoria
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\Tutorial\bin\Debug\Tutorial.exe
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
-F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\Tutorial\obj\Debug\Tutorial.exe
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\Tutorial\obj\Debug\Tutorial.pdb

@@ -1,7 +1,6 @@
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\bin\Debug\week9-10.exe.config
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\bin\Debug\week9-10.exe
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\bin\Debug\week9-10.pdb
-F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\week9-10.csprojAssemblyReference.cache
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\MainWindow.g.cs
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\App.g.cs
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\week9-10_MarkupCompile.cache
@@ -13,3 +12,12 @@ F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\week
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\week9-10.csproj.CoreCompileInputs.cache
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\week9-10.exe
 F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\week9-10.pdb
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\Window1.g.cs
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\Window1.baml
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\UserControl1.g.cs
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\Window2.g.cs
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\UserControl1.baml
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\Window2.baml
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\week9-10.csprojAssemblyReference.cache
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\MyMaterials\506\tutor\YangStudy\Tutorial9-10\Tutorial\week9-10\obj\Debug\App.baml

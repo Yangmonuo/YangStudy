@@ -5,17 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:week9_10"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid Margin="24,0,170,50" Background="Black" Opacity="0.8
-          ">
-        <Grid.RowDefinitions>
-            <RowDefinition Height="267*"/>
-            <RowDefinition Height="256*"/>
-        </Grid.RowDefinitions>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="192,159,0,0" VerticalAlignment="Top" Width="75"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="362,187,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Label" HorizontalAlignment="Left" Margin="120,253,0,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
-        <Grid HorizontalAlignment="Left" Height="138" Margin="666,81,-286,-28" Grid.Row="1" VerticalAlignment="Top" Width="218"/>
-
-    </Grid>
+        Title="MainWindow" Height="800" Width="600">
+    <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="42" Margin="72,590,0,0" Stroke="Black" VerticalAlignment="Top" Width="44" RenderTransformOrigin="1.182,5.452"/>
 </Window>

@@ -2,8 +2,13 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:week9_10"
-             StartupUri="MainWindow.xaml">
+             xmlns:local1="clr-namespace:Tutorial"
+             StartupUri="Window2.xaml">
     <Application.Resources>
-         
+        <local1:Boss x:Key="boss"/>
+        <ObjectDataProvider x:Key="staff"
+                            ObjectInstance="{StaticResource boss}"
+                            MethodName="Generate">
+        </ObjectDataProvider>
     </Application.Resources>
 </Application>
