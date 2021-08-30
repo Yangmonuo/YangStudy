@@ -12,7 +12,37 @@ namespace Tutorial
     /// </summary>
     public class Employee : IComparable
     {
-        public string name { get; set; }
+
+        /// <summary>
+        /// 第一种定义属性的方法
+        /// </summary>
+        public string Name { get; set; }
+
+
+        /// <summary>
+        /// 第二种定义属性的方法
+        /// </summary>
+        public string Name2 { get; private set; }
+
+        /// <summary>
+        /// 第三种定义属性的方法
+        /// </summary>
+        private string name3;
+        public string Name3
+        {
+            get
+            {
+                return name3;
+            }
+            set
+            {
+                if (value != null)
+                {
+                    name3 = value;
+                }
+            }
+        }
+
         public int ID { get; set; }
         public Gender gender { get; set; }
         /// <summary>
@@ -23,7 +53,7 @@ namespace Tutorial
         /// <param name="sgender"></param>
         public Employee(string sname, int sid, Gender sgender)
         {
-            name = sname;
+            Name = sname;
             ID = sid;
             gender = sgender;
         }
@@ -33,7 +63,7 @@ namespace Tutorial
         /// <returns></returns>
         public override string ToString()
         {
-            return ID + " " + name + " " + gender;
+            return "ID:"+ID + " Name:" + Name + " Gender:" + gender;
         }
 
         /// <summary>
