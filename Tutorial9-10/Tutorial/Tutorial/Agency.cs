@@ -18,14 +18,14 @@ namespace Tutorial
 
         public Boss()
         {
-            staff= this.Generate();
+            staff = this.Generate();
         }
 
         public override List<Employee> Generate()
         {
             List<Employee> staff = new List<Employee>() {
             new Employee("asdf",2,Gender.F),
-            new Employee("Jack",1,Gender.M),
+                      new Employee("Jack",1,Gender.M),
             new Employee("lyy",5,Gender.F)
                     };
             return staff;
