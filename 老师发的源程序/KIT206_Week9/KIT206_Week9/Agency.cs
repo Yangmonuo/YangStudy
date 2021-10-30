@@ -51,7 +51,7 @@ namespace KIT206_Week9
             {
                 conn.Open();
 
-                MySqlCommand cmd = new MySqlCommand("select id, given_name, family_name from staff", conn);
+                MySqlCommand cmd = new MySqlCommand("select id, given_name, family_name from researcher", conn);
                 rdr = cmd.ExecuteReader();
 
                 while (rdr.Read())

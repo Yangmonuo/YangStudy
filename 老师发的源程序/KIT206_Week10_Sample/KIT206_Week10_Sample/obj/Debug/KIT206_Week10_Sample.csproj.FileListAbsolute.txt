@@ -16,3 +16,4 @@ F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week10_Sample\KI
 F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week10_Sample\KIT206_Week10_Sample\obj\Debug\KIT206_Week10_Sample.csproj.CoreCompileInputs.cache
 F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week10_Sample\KIT206_Week10_Sample\obj\Debug\KIT206_Week10_Sample.exe
 F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week10_Sample\KIT206_Week10_Sample\obj\Debug\KIT206_Week10_Sample.pdb
+F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week10_Sample\KIT206_Week10_Sample\obj\Debug\KIT206_Week10_Sample.csprojAssemblyReference.cache

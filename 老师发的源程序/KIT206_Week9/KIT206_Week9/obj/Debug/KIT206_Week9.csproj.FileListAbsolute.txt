@@ -4,3 +4,10 @@ C:\Dermoudy\Teaching\Units\KIT206,506\2017\sem 2\Tutorials\08 Communicating with
 C:\Dermoudy\Teaching\Units\KIT206,506\2017\sem 2\Tutorials\08 Communicating with Data Sources\KIT206_Week9 2016\KIT206_Week9\bin\Debug\KIT206_Week7.exe.config
 F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\obj\Debug\KIT206_Week9.csprojAssemblyReference.cache
 F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\obj\Debug\KIT206_Week9.csproj.CoreCompileInputs.cache
+F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\bin\Debug\KIT206_Week7.exe.config
+F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\bin\Debug\KIT206_Week7.exe
+F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\bin\Debug\KIT206_Week7.pdb
+F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\bin\Debug\MySql.Data.xml
+F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\obj\Debug\KIT206_Week9.csproj.CopyComplete
+F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\obj\Debug\KIT206_Week7.exe
+F:\MyMaterials\506\tutor\YangStudy\老师发的源程序\KIT206_Week9\KIT206_Week9\obj\Debug\KIT206_Week7.pdb

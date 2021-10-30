@@ -19,6 +19,8 @@ namespace KIT206_Week9
             doSomething = boss.Display;
             doSomething();
 
+            Console.Read();
+
             //For testing optional implementation of step 2.3.4:
             /*
             foreach (Employee e in boss.Workers) {
